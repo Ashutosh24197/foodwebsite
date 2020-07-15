@@ -17,6 +17,7 @@
     align-items: center;
     font-family: 'Rubik', sans-serif;
     position: sticky;
+    z-index: 1;
 }
 
 #navbar::before{
